@@ -2,6 +2,8 @@
 
 This is a complete Next.js template with internationalization (i18n) and advanced SEO features using `next-intl` v4.0. Use this template as a starting point for all your multilingual Next.js applications.
 
+This template provides a production-ready foundation for building multilingual Next.js applications. It includes path-based routing, automatic locale detection, and dynamic metadata for optimal SEO. The structure is designed to be easily extensible, allowing you to add new languages and content with minimal effort.
+
 ## 🌐 Features
 
 - ✅ **Path-based routing** (`/en/`, `/es/`)
@@ -36,6 +38,32 @@ nextjs-i18n-template/
 ├── next.config.ts        # Next.js config with next-intl plugin
 └── package.json          # Dependencies
 ```
+
+## 🚀 Getting Started
+
+To get started with this template, you have two options:
+
+### Option 1: Use this repository as a template
+
+1. Click the "Use this template" button on the GitHub repository page.
+2. Choose a name for your new repository and create it.
+3. Clone your new repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/your-new-repository.git
+   cd your-new-repository
+   ```
+4. Install the dependencies:
+   ```bash
+   npm install
+   ```
+5. Run the development server:
+    ```bash
+    npm run dev
+    ```
+
+### Option 2: Manually copy the files
+
+If you prefer to integrate these features into an existing project, you can follow the manual steps outlined below.
 
 ## 🚀 How to Use This Template
 
