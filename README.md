@@ -76,10 +76,7 @@ If you prefer to integrate these features into an existing project, you can foll
    ```
 
 2. **Update project name:**
-   ```bash
-   # Edit package.json and change the "name" field
-   nano package.json
-   ```
+   Open the `package.json` file in your code editor and change the `"name"` field to your project's name.
 
 3. **Install dependencies:**
    ```bash
