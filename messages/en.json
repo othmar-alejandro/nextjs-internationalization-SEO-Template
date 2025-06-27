@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Welcome to Your App",
+    "description": "This is a Next.js app with internationalization ready to use!"
+  },
+  "Metadata": {
+    "siteName": "Your Site Name",
+    "defaultTitle": "Your Site Name - Your Tagline",
+    "defaultDescription": "Your default site description.",
+    "keywords": "your, keywords, here",
+    "author": "Your Name",
+    "url": "https://yourdomain.com"
+  }
+}
